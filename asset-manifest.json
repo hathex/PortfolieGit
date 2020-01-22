@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PortfolieGit/static/css/main.5e11d0b0.chunk.css",
-    "main.js": "/PortfolieGit/static/js/main.9a66ffd0.chunk.js",
-    "main.js.map": "/PortfolieGit/static/js/main.9a66ffd0.chunk.js.map",
+    "main.js": "/PortfolieGit/static/js/main.b8e22398.chunk.js",
+    "main.js.map": "/PortfolieGit/static/js/main.b8e22398.chunk.js.map",
     "runtime-main.js": "/PortfolieGit/static/js/runtime-main.5b190506.js",
     "runtime-main.js.map": "/PortfolieGit/static/js/runtime-main.5b190506.js.map",
     "static/js/2.d9525a73.chunk.js": "/PortfolieGit/static/js/2.d9525a73.chunk.js",
     "static/js/2.d9525a73.chunk.js.map": "/PortfolieGit/static/js/2.d9525a73.chunk.js.map",
     "index.html": "/PortfolieGit/index.html",
-    "precache-manifest.cf46ef6cf4edf54412595c0953d82191.js": "/PortfolieGit/precache-manifest.cf46ef6cf4edf54412595c0953d82191.js",
+    "precache-manifest.06ac754b8f5f4451f2bb89f264a5a160.js": "/PortfolieGit/precache-manifest.06ac754b8f5f4451f2bb89f264a5a160.js",
     "service-worker.js": "/PortfolieGit/service-worker.js",
     "static/css/main.5e11d0b0.chunk.css.map": "/PortfolieGit/static/css/main.5e11d0b0.chunk.css.map",
     "static/js/2.d9525a73.chunk.js.LICENSE": "/PortfolieGit/static/js/2.d9525a73.chunk.js.LICENSE",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.5b190506.js",
     "static/js/2.d9525a73.chunk.js",
     "static/css/main.5e11d0b0.chunk.css",
-    "static/js/main.9a66ffd0.chunk.js"
+    "static/js/main.b8e22398.chunk.js"
   ]
 }
