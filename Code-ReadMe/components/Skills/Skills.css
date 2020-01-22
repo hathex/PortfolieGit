@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.SkillBGC {
+    background: url(../../mainImg/caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+
+
+.alleSkillsene {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 60%;
+    margin-left: 20%;
+}
+
+figure.SkillFigure {
+    padding: 50px;
+}
+
+#MySKills {
+    padding: 200px 100px 100px 100px;
+    font: 4em sans-serif;
+    text-align: center;
+    color: #B9B9B9;
+}
+
+img.SkillLogo {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    position: relative;
+    display: block;
+    backface-visibility: hidden;
+}
+
+.midText {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    opacity: 0;
+    margin: 74px;
+    z-index: 20000;
+    font: 3em sans-serif;
+    color: #B9B9B9;
+    transition: .5s ease;
+}
+
+.midText:hover {
+    opacity: 1;
+}
+
+
+.SkillImg {
+    border-radius: 50%;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+}
+
+.SkillImg:hover {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}

@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ProjectBGC {
+    background: url(../../mainImg/fabian-grohs-XMFZqrGyV-Q-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+img.Projectlogo {
+    width: 450px;
+    height: 350px;
+    object-fit: cover;
+    border: solid rgb(53, 50, 50) 2px;
+    border-radius: 15px;
+}
+
+.alleProjecter {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+#MyProjects {
+    padding: 200px 100px 100px 100px;
+    font: 4em sans-serif;
+    text-align: center;
+    color: #B9B9B9;
+}
+
+
+.LinkHeader {
+    color: rgb(53, 50, 50);
+    font: 2.5em sans-serif;
+    text-align: center;
+    padding: 10px 0 30px 0;
+    letter-spacing: 5px;
+}
+
+
+.projectLink {
+    font: 1em sans-serif;
+    margin: 50px 0 20px 135px;
+    padding: 10px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: white;
+    border: solid 2px rgb(53, 50, 50);
+    background-color: rgb(53, 50, 50);
+}

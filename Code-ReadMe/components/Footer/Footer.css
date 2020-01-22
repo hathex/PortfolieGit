@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.footerTextH {
+    padding: 40px 0 0 200px;
+    font: 1.2em sans-serif;
+    position: relative;
+    color: #B9B9B9;
+}
+
+.footerTextH a {
+    color: #B9B9B9;
+}
+
+.Footerwrapper {
+    display: flex;
+}
+
+.footerImgMe {
+    display: flex;
+}
+
+.me {
+    width: 33.33%;
+
+}
+
+.myInfo {
+    width: 33.33%;
+}
+
+.links {
+    width: 33.33%;
+}
+
+.Footer {
+    background-color: rgba(21, 25, 33, .9);
+    height: 234px;
+}
+
+#myImg {
+    margin: 20px 0 0 150px;
+    position: absolute;
+    width: 40px;
+    border-radius: 100px;
+}

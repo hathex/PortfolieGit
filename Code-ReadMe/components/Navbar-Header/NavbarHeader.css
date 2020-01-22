@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* *************************************************************** */
+/* *********** HEADER **************** */
+
+/* .Header {
+    position: absolute;
+} */
+
+.jumbotron {
+    background: url(../../mainImg/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+.covertext {
+    width: 50%;
+    margin-left: 25%;
+    bottom: 40%;
+    text-align: center;
+    display: block;
+    position: absolute;
+    font: 3em sans-serif;
+}
+
+h2.display-4 {
+    color: #B9B9B9;
+}
+
+.rgb {
+    color: rgba(185, 185, 185, 0.50);
+}
+
+/* *************************************************************** */
+/* *********** Navbar **************** */
+
+.Navbar {
+    z-index: 100000;
+    position: absolute;
+    width: 100%;
+}
+
+.navbarFlex {
+    display: flex;
+    justify-content: space-evenly;
+    font: 1.5em sans-serif;
+    list-style: none;
+    margin-top: 10px;
+}
+
+.navbarFlex li a {
+    text-decoration: none;
+
+    color: #B9B9B9;
+}
+
+.navbarFlex li a:hover {
+    border-top: solid 2px #B9B9B9;
+}

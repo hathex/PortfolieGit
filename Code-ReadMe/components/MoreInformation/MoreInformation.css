@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cardBox {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px 50px 50px 50px;
+}
+
+#moreinfoHeader {
+    text-align: center;
+    font: 5em sans-serif;
+    color: rgb(116, 116, 116);
+    padding: 50px 0 50px 0;
+}
+
+
+/* ****************************************************************** */
+/*************** card 1 **************/
+
+.cardBox1 {
+    background: url(../../mainImg/69756_coding-wallpaper-1920x1080.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 40vh;
+    width: 20%;
+    position: relative;
+}
+
+.cardText1 {
+    height: 100%;
+    border-top: yellow solid 5px;
+    text-decoration: none;
+    list-style: none;
+}
+
+#head1 {
+    font: 3em sans-serif;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #B9B9B9;
+    padding: 10px 10px 250px 10px;
+}
+
+#section1 {
+    font: 1em sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+
+#section1:hover {
+    color: yellow;
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+
+/* ****************************************************************** */
+/*************** card 2 **************/
+
+.cardBox2 {
+    background: url(../../mainImg/caspar-camille-rubin-89xuP-XmyrA-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 40vh;
+    width: 20%;
+    position: relative;
+}
+
+.cardText2 {
+    height: 100%;
+    border-top: rgb(8, 240, 0) solid 5px;
+    text-decoration: none;
+    list-style: none;
+}
+
+#head2 {
+    font: 3em sans-serif;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #B9B9B9;
+    padding: 10px 10px 250px 10px;
+}
+
+#section2 {
+    font: 1em sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+#section2:hover {
+    color: rgb(8, 240, 0);
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+/* ****************************************************************** */
+/*************** card 2 **************/
+
+.cardBox3 {
+    background: url(../../mainImg/caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 40vh;
+    width: 20%;
+    position: relative;
+}
+
+.cardText3 {
+    height: 100%;
+    border-top: blue solid 5px;
+    text-decoration: none;
+    list-style: none;
+}
+
+#head3 {
+    font: 3em sans-serif;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #B9B9B9;
+    padding: 10px 10px 250px 10px;
+}
+
+#section3 {
+    font: 1em sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+
+#section3:hover {
+    color: blue;
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+/* ****************************************************************** */

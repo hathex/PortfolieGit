@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* #wrapperAbout {
+    background-color: rgba(21, 25, 33, 1);
+    height: 100vh;
+} */
+
+.flexBox {
+    display: flex;
+}
+
+.ulBox {
+    padding: 20px 50px 20px 0px;
+    width: 100%;
+}
+
+.AboutWrapper {
+    background-color: rgba(21, 25, 33, .9);
+    height: 75vh;
+}
+
+.AboutBox {
+    width: 100%;
+    color: white;
+}
+
+#h2About {
+    font: 3em sans-serif;
+    padding: 70px 20px 50px 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.textAbout {
+    font: 1em sans-serif;
+    word-spacing: 5px;
+    padding-bottom: 50px;
+    margin-right: 150px;
+}
+
+#textAboutHeader {
+    font: 2.5em sans-serif;
+    word-spacing: 3px;
+    padding: 0 0 40px 400px;
+}
+
+.textAboutTitles {
+    font: 1.44em sans-serif;
+    word-spacing: 3px;
+    line-height: 20px;
+    padding: 0 0 40px 400px;
+}
