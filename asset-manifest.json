@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hathex/Portfolie.git/static/css/main.83362850.chunk.css",
+    "main.js": "/hathex/Portfolie.git/static/js/main.102e38f6.chunk.js",
+    "main.js.map": "/hathex/Portfolie.git/static/js/main.102e38f6.chunk.js.map",
+    "runtime-main.js": "/hathex/Portfolie.git/static/js/runtime-main.f5b7c99d.js",
+    "runtime-main.js.map": "/hathex/Portfolie.git/static/js/runtime-main.f5b7c99d.js.map",
+    "static/js/2.83849e99.chunk.js": "/hathex/Portfolie.git/static/js/2.83849e99.chunk.js",
+    "static/js/2.83849e99.chunk.js.map": "/hathex/Portfolie.git/static/js/2.83849e99.chunk.js.map",
+    "index.html": "/hathex/Portfolie.git/index.html",
+    "precache-manifest.d18eda8ae8b2e3c5bdf3b03820ec4e74.js": "/hathex/Portfolie.git/precache-manifest.d18eda8ae8b2e3c5bdf3b03820ec4e74.js",
+    "service-worker.js": "/hathex/Portfolie.git/service-worker.js",
+    "static/css/main.83362850.chunk.css.map": "/hathex/Portfolie.git/static/css/main.83362850.chunk.css.map",
+    "static/js/2.83849e99.chunk.js.LICENSE": "/hathex/Portfolie.git/static/js/2.83849e99.chunk.js.LICENSE",
+    "static/media/MoreInformation.css": "/hathex/Portfolie.git/static/media/caspar-camille-rubin-89xuP-XmyrA-unsplash.db8fd1a7.jpg",
+    "static/media/Skills.css": "/hathex/Portfolie.git/static/media/caspar-camille-rubin-fPkvU7RDmCo-unsplash.f8d7e006.jpg",
+    "static/media/Project.css": "/hathex/Portfolie.git/static/media/fabian-grohs-XMFZqrGyV-Q-unsplash.e10814d2.jpg",
+    "static/media/NavbarHeader.css": "/hathex/Portfolie.git/static/media/shahadat-rahman-BfrQnKBulYQ-unsplash.7e46d10d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5b7c99d.js",
+    "static/js/2.83849e99.chunk.js",
+    "static/css/main.83362850.chunk.css",
+    "static/js/main.102e38f6.chunk.js"
+  ]
+}
